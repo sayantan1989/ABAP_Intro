@@ -20,7 +20,7 @@ https://github.com/sayantan1989/ABAP_Intro/blob/main/create_project.md
 
 ![image](https://github.com/user-attachments/assets/70aaceec-6fdd-4815-ac17-abd576a8f958)
 
-4. A new transport request will be generated.
+4.Create a new transport request or select an existing one.
 
 ![image](https://github.com/user-attachments/assets/866be806-64e0-4b2a-8f0c-3d9b2715dcdd)
 
