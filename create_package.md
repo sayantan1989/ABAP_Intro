@@ -1,10 +1,15 @@
 ## Create a abap package in ADT ( TCODE SE80) 
 
+An ABAP package is a transportable ABAP repository object that groups development objects of an ABAP system.
+
 ### Pre requisites : 
 
 - Software component ( ex ZLOCAL ) .
 - ABAP Cloud project ( ex TRL_EN ) should already be created .
 https://github.com/sayantan1989/ABAP_Intro/blob/main/create_project.md 
+
+### References :
+https://help.sap.com/docs/ABAP_PLATFORM/c238d694b825421f940829321ffa326a/4ec14bab6e391014adc9fffe4e204223.html 
 
 ### Steps :
 
