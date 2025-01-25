@@ -1,4 +1,4 @@
-## Create a abap package in ADT ( TCODE SE80) 
+## Create a ABAP package in ADT ( TCODE SE80) 
 
 ### Pre requisites : 
 
