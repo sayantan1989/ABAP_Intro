@@ -1,10 +1,15 @@
 ## Create a ABAP package in ADT ( TCODE SE80) 
 
+Function groups are containers for function modules. You cannot execute a function group. When you call a function module, the system loads the whole of its function group into the internal session of the calling program (if it has not already been loaded)
+
 ### Pre requisites : 
 
 - Software component ( ex ZLOCAL ) .
 - ABAP Cloud project ( ex TRL_EN ) should already be created .
 https://github.com/sayantan1989/ABAP_Intro/blob/main/create_project.md 
+
+### References : 
+https://help.sap.com/doc/saphelp_ewm900/9.0/en-US/9f/db992335c111d1829f0000e829fbfe/content.htm?no_cache=true 
 
 ### Steps :
 
