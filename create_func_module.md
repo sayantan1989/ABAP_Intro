@@ -1,7 +1,7 @@
 ## Create a ABAP function module in ADT ( TCODE SE37 ) 
 
 All of the function modules in a function group can access the global data of the group. For this reason, you should place all function modules that use the same data in a single function group. 
-For example, if you have a set of function modules that all use the same internal table, you could place them in a function group containing the table definition in its global data.
+For example, if you have a set of function modules that all use the same internal table, you could place them in a function group containing the table definition in its global data. When a function module is loaded, also the whole Function group gets loaded.
 
 ### Pre requisites : 
 
