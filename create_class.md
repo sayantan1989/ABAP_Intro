@@ -28,3 +28,14 @@ https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-US/c3/225b5c54f411d194a6000
 
 ![image](https://github.com/user-attachments/assets/7b2c4201-6a3e-4284-b214-193057fa736c)
 
+### Run a public method of a class  
+
+In ADT only way to execute a class method directly is by inheriting from cl_demo_classrun and redefine method main to write the result.
+Example : https://github.com/sayantan1989/ABAP_Intro/blob/main/examples/class_demo_run.txt 
+
+![image](https://github.com/user-attachments/assets/1712c33f-06f1-4dab-b7e3-4bcc97ad80fc)
+
+### Run in debug mode 
+
+- Double click on a line to set a break point
+- Run in debug mode
