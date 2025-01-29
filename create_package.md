@@ -9,7 +9,21 @@ An ABAP package is a transportable ABAP repository object that groups developmen
 https://github.com/sayantan1989/ABAP_Intro/blob/main/create_project.md 
 
 ### References :
+
+**About SAP packages**
+
 https://help.sap.com/docs/ABAP_PLATFORM/c238d694b825421f940829321ffa326a/4ec14bab6e391014adc9fffe4e204223.html 
+
+**About software component**
+
+https://help.sap.com/doc/saphelp_nw75/7.5.5/en-US/ef/f43220b19b11d596c100a0c94260a5/content.htm?no_cache=true
+
+A software component in SAP is a unit of software that is delivered to customers as a set of packages. Software components are released in stages, with each new release adding new features. 
+
+- A software component is made up of packages that contain development objects. 
+- Developers assign development objects to packages, which implicitly assigns the objects to a software component. 
+- Each software component has multiple releases, with each release adding new features. 
+- Patches can be imported into a software component separately. 
 
 ### Steps :
 
